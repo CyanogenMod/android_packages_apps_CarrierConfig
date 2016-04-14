@@ -5,5 +5,6 @@
 <boolean name="carrier_volte_tty_supported_bool" value="false" />
 <boolean name="carrier_wfc_ims_available_bool" value="true" />
 <boolean name="carrier_ims_gba_required_bool" value="true" />
+<boolean name="carrier_ims_support_evs_hd_icon_bool" value="true" />
 </carrier_config>
 </carrier_config_list>
