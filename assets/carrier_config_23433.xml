@@ -5,5 +5,13 @@
         <string name="vvm_destination_number_string">887</string>
         <string name="vvm_type_string">vvm_type_omtp</string>
         <boolean name="prefer_2g_bool" value="false" />
+<string-array name="gsm_nonroaming_networks_string_array" num="6">
+    <item value="23430" />
+    <item value="23431" />
+    <item value="23432" />
+    <item value="23433" />
+    <item value="23434" />
+    <item value="23486" />
+</string-array>
     </carrier_config>
 </carrier_config_list>
