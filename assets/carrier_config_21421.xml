@@ -1,9 +1,7 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <carrier_config_list>
 <carrier_config>
-<boolean name="carrier_volte_available_bool" value="true" />
-<int name="volte_replacement_rat_int" value="3" />
-<string-array name="gsm_nonroaming_networks_string_array" num="21">
+<string-array name="gsm_nonroaming_networks_string_array" num="20">
     <item value="21401" />
     <item value="21402" />
     <item value="21403" />
@@ -24,7 +22,6 @@
     <item value="21418" />
     <item value="21419" />
     <item value="21420" />
-    <item value="21421" />
 </string-array>
 </carrier_config>
 </carrier_config_list>
