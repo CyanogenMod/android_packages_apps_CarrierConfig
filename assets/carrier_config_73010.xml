@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <carrier_config_list>
 <carrier_config>
+<boolean name="voicemail_notification_persistent_bool" value="true" />
 <string-array name="gsm_nonroaming_networks_string_array" num="1">
     <item value="73001" />
 </string-array>
