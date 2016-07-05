@@ -5,5 +5,6 @@
 <int name="maxMessageSize" value="512000" />
 <int name="maxImageWidth" value="2592" />
 <boolean name="enabledNotifyWapMMSC" value="true" />
+<integer-array name="config_sms_enabled_single_shift_tables"><item>2</item></integer-array>
 </carrier_config>
 </carrier_config_list>
