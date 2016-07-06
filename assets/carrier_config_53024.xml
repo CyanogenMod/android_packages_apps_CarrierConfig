@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <carrier_config_list>
 <carrier_config>
-<string-array name="gsm_roaming_networks_string_array" num="1">
+<string-array translatable="false" name="config_sameNamedOperatorConsideredRoaming">
     <item value="53001" />
 </string-array>
 </carrier_config>
