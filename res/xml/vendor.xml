@@ -3,4 +3,8 @@
      filtering rules are the same as those in carrier_config*.xml files. This
      file is read after any specific config file from the assets folder, so it
      must use explicit filters for MCC ad MNC if that is desired. -->
-<carrier_config_list />
+<carrier_config_list>
+  <carrier_config mcc="311" mnc="480">
+    <boolean name="carrier_allow_turnoff_ims_bool" value="false" />
+  </carrier_config>
+</carrier_config_list>
