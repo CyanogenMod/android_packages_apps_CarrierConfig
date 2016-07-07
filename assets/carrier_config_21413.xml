@@ -23,5 +23,8 @@
     <item value="21420" />
     <item value="21421" />
 </string-array>
+<int-array name="single_shift_tables" num="1">
+    <item value="2" />
+</int-array>
 </carrier_config>
 </carrier_config_list>
