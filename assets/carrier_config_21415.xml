@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <carrier_config_list>
 <carrier_config>
+<boolean name="data_enabled_by_default" value="false" />
 <string-array name="gsm_nonroaming_networks_string_array" num="20">
     <item value="21401" />
     <item value="21402" />
