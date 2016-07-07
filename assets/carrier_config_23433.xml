@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <carrier_config_list>
     <carrier_config>
+        <boolean name="data_enabled_by_default" value="true" />
         <int name="vvm_port_number_int" value="20481" />
         <string name="vvm_destination_number_string">887</string>
         <string name="vvm_type_string">vvm_type_omtp</string>

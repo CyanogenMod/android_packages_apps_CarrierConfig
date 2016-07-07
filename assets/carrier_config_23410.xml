@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <carrier_config_list>
 <carrier_config>
+<boolean name="data_enabled_by_default" value="true" />
 <int name="smsToMmsTextThreshold" value="10" />
 <boolean name="prefer_2g_bool" value="false" />
 <boolean name="voicemail_notification_persistent_bool" value="true" />
