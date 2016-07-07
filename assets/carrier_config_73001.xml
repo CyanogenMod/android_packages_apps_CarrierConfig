@@ -5,5 +5,8 @@
 <string-array name="gsm_nonroaming_networks_string_array" num="1">
     <item value="73010" />
 </string-array>
+<int-array name="config_sms_enabled_single_shift_tables" num=”1”>
+    <item value="2" />
+</int-array>
 </carrier_config>
 </carrier_config_list>

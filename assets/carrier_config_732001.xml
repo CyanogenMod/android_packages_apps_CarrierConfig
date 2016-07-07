@@ -4,5 +4,8 @@
 <int name="maxImageHeight" value="1944" />
 <int name="maxMessageSize" value="614400" />
 <int name="maxImageWidth" value="2592" />
+<int-array name="config_sms_enabled_single_shift_tables" num=”1”>
+    <item value="2" />
+</int-array>
 </carrier_config>
 </carrier_config_list>
