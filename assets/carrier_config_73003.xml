@@ -3,4 +3,7 @@
 <carrier_config>
 <boolean name="voicemail_notification_persistent_bool" value="true" />
 </carrier_config>
+<int-array name="single_shift_tables" num="1">
+    <item value="2" />
+</int-array>
 </carrier_config_list>
