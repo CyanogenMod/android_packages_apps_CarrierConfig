@@ -2,5 +2,6 @@
 <carrier_config_list>
 <carrier_config>
 <boolean name="voicemail_notification_persistent_bool" value="true" />
+<boolean name="config_edit_voicemail_number_bool">false</bool>
 </carrier_config>
 </carrier_config_list>
