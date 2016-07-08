@@ -2,6 +2,7 @@
 <carrier_config_list>
 <carrier_config>
 <boolean name="voicemail_notification_persistent_bool" value="true" />
+<boolean name="config_edit_voicemail_number_bool">false</bool>
 <string-array name="gsm_nonroaming_networks_string_array" num="1">
     <item value="73010" />
 </string-array>
