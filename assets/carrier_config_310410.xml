@@ -9,5 +9,6 @@
 <boolean name="enableSMSDeliveryReports" value="false" />
 <int name="volte_replacement_rat_int" value="3" />
 <boolean name="csp_enabled_bool" value="true" />
+<boolean name="carrier_disable_etws_cmas_dup_detection" value="true" />
 </carrier_config>
 </carrier_config_list>
