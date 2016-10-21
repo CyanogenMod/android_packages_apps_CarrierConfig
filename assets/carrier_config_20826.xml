@@ -7,6 +7,7 @@
 <string-array name="gsm_nonroaming_networks_string_array" num="2">
     <item value="20801" />
     <item value="20810" />
+    <item value="20820" />
 </string-array>
 </carrier_config>
 </carrier_config_list>
