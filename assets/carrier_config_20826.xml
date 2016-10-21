@@ -4,9 +4,10 @@
 <int name="maxImageHeight" value="1944" />
 <int name="maxMessageSize" value="614400" />
 <int name="maxImageWidth" value="2592" />
-<string-array name="gsm_nonroaming_networks_string_array" num="2">
+<string-array name="gsm_nonroaming_networks_string_array" num="3">
     <item value="20801" />
     <item value="20810" />
+    <item value="20820" />
 </string-array>
 </carrier_config>
 </carrier_config_list>
