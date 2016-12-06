@@ -7,6 +7,9 @@
 <int name="maxSubjectLength" value="80" />
 <int name="maxMessageSize" value="1048576" />
 <int name="maxImageWidth" value="2592" />
+<string-array name="read_only_apn_types_string_array" num="1">
+    <item value="*" />
+</string-array>
 <string-array name="gsm_nonroaming_networks_string_array" num="5">
     <item value="302220" />
     <item value="302610" />
