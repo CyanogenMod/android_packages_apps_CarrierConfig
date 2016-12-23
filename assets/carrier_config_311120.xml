@@ -1,0 +1,19 @@
+<!--
+
+    Support for Verizon VVM
+
+    SFO Code 6554 = IMS Basic Visual Voicemail
+    SFO Code 78710 = IMS Voicemail
+-->
+
+
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<carrier_config_list>
+<carrier_config>
+<int name="vvm_port_number_int" value="6554" />
+<string name="vvm_destination_number_string">900080006202</string>
+<string name="carrier_vvm_package_name_string">com.motorola.visualvoicemail</string>
+<string name="vvm_type_string">vvm_type_omtp</string>
+<boolean name="vvm_cellular_data_required_bool" value="true"/>
+</carrier_config>
+</carrier_config_list>
